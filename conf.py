@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'IMCA-VISION-WEB'
+project = 'IMCA-VISION_DOCUMENTATION'
 copyright = '2024, Shakima'
 author = 'Shakima'
-release = 'v1.0'
+release = 'v1.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -17,7 +17,7 @@ release = 'v1.0'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 language = 'zh_CN'
 
