@@ -15,4 +15,4 @@ ubuntu镜像
    :hidden:
    :glob:
    
-       入门教程/ubuntu-install
+   入门教程/ubuntu-install

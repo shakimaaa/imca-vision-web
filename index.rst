@@ -13,4 +13,4 @@ IMCA-VISION DOCUMENTATION
    :maxdepth: 1
    :hidden:
    
-       入门教程
+   入门教程
