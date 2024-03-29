@@ -3,18 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to IMCA-VISION_DOCUMENTATION's documentation!
+IMCA-VISION DOCUMENTATION
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
+   :maxdepth: 1
+   :hidden:
+   
+       入门教程
+
+  IMCA-VISION DOCUMENTATION是imca战队视觉组创建和维护的robomaster视觉算法相关文档，内容涉及机器视觉、机器人运动学、深度学习以及ros2架构相关内容，是本队算法培训以及传承体系的重要一环。
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
