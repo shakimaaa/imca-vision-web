@@ -7,7 +7,7 @@
 ubuntu镜像
 ----------
 
-  **由于我们使用的是ros2-humble版本，所以需要下载与其适配的ubuntu22.04系统。**
+**由于我们使用的是ros2-humble版本，所以需要下载与其适配的ubuntu22.04系统。**
   *  `点我下载 <https://ubuntu.com/download/desktop>`__ .
   
   
