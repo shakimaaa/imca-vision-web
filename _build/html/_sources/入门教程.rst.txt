@@ -1,0 +1,19 @@
+
+入门教程
+========
+
+面向视觉组新人的算法相关教程
+       
+ubuntu镜像
+----------
+
+**由于我们使用的是ros2-humble版本，所以需要下载与其适配的ubuntu22.04系统。**
+  *  `点我下载 <https://ubuntu.com/download/desktop>`__ .
+  
+  
+.. toctree::
+   :hidden:
+   :glob:
+   
+   入门教程/ubuntu-install
+   入门教程/start-in-ubuntu
