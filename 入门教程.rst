@@ -16,3 +16,4 @@ ubuntu镜像
    :glob:
    
    入门教程/ubuntu-install
+   入门教程/start-in-ubuntu
