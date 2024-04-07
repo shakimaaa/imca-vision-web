@@ -1,5 +1,5 @@
 
-入门教程
+教程
 ========
 
 面向视觉组新人的算法相关教程
@@ -17,3 +17,4 @@ ubuntu镜像
    
    入门教程/ubuntu-install
    入门教程/start-in-ubuntu
+   入门教程/C++-style-guide

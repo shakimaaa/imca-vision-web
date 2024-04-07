@@ -4,6 +4,8 @@
 ubuntu系统常用指令
 ------------------
 
+使用 ``CTRL + ALT + T`` 打开终端，我们的指令在终端输入运行
+
 .. code-block:: bash
 
     pwd  #显示当前工作路径
@@ -47,6 +49,9 @@ ubuntu系统常用指令
 
 **以上指令根据笔者印象列举，更多可自行搜索**
 
+.. note::
+    有时在使用指令的时候需要root权限，需要在指令前加上 ``sudo`` 提升权限
+
 搭建c/c++环境
 -----------------
 
@@ -65,7 +70,7 @@ ubuntu系统常用指令
 
 .. code-block:: bash
 
-    vim HelloIMCA.c  #使用vim创建编辑c文件
+    vim HelloIMCA.c  #打开终端输入这个指令，使用vim创建编辑c文件
 
 在文件内添加下面内容
 
@@ -85,9 +90,38 @@ ubuntu系统常用指令
 
 2. **c++编译环境配置和使用** 
 
+使用指令进行环境安装
 
+.. code-block:: bash
 
+    apt-get install g++
+    #  查看版本
+    g++ --version
+    #  查看该命令所有操作
+    g++ --h
 
+然后接下来我们用C++写一个HelloIMCA.cpp,
+
+.. code-block:: bash
+
+    vim HelloWorld.cpp
+
+在文件内添加下面内容
+
+.. code-block:: c++
+
+    #include<iostream>
+    using namespace std;
+    int main(void){
+    cout<<"Hello IMCA!"<<endl;
+    }
+
+保存后运行
+
+.. code-block:: bash
+
+    g++ HelloIMCA.cpp -o HelloIMCAcpp  #  编译
+    ./HelloIMCAcpp   
 
 
 
