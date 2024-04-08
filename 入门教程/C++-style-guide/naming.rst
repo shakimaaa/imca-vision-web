@@ -56,11 +56,11 @@
 
 * ``myusefulclass_test.cc`` // ``_unittest`` 和 ``_regtest`` 已弃用.
 
-C++ 文件要以 ``.cc`` 结尾, 头文件以 ``.h`` 结尾. 专门插入文本的文件则以 ``.inc`` 结尾, 参见 :ref:`头文件自足 <self-contained-headers>`.
+C++ 文件要以 ``.cpp`` 结尾, 头文件以 ``.h`` 结尾. 专门插入文本的文件则以 ``.inc`` 结尾, 参见 :ref:`头文件自足 <self-contained-headers>`.
 
 不要使用已经存在于 ``/usr/include`` 下的文件名 (Yang.Y 注: 即编译器搜索系统头文件的路径), 如 ``db.h``.
 
-通常应尽量让文件名更加明确. ``http_server_logs.h`` 就比 ``logs.h`` 要好. 定义类时文件名一般成对出现, 如 ``foo_bar.h`` 和 ``foo_bar.cc``, 对应于类 ``FooBar``.
+通常应尽量让文件名更加明确. ``http_server_logs.h`` 就比 ``logs.h`` 要好. 定义类时文件名一般成对出现, 如 ``foo_bar.h`` 和 ``foo_bar.cpp``, 对应于类 ``FooBar``.
 
 内联函数定义必须放在 ``.h`` 文件中. 如果内联函数比较短, 就直接将实现也放在 ``.h`` 中.
 
