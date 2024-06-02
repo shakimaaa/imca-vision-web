@@ -15,6 +15,5 @@ ubuntu镜像
    :hidden:
    :glob:
    
-   入门教程/ubuntu-install
-   入门教程/start-in-ubuntu
-   入门教程/C++-style-guide
+   入门教程/base-learning
+

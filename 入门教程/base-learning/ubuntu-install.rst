@@ -53,10 +53,13 @@ ubuntu系统属于linux系统的一种发行版本，是与windows系统平级�
 
 **至此你已经完成了ubuntu系统的安装**
 
+.. note::
+
+   之后的教程如果没有特别说明默认在linux系统之下
 
 
 
-
+2024.3.5 Shakima
 
 
 
