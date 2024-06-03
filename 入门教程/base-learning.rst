@@ -9,10 +9,12 @@
   
   
 .. toctree::
+   :maxdepth: 3
    :hidden:
    :glob:
    
    base-learning/ubuntu-install
    base-learning/start-in-ubuntu
    base-learning/the-IDE
+   base-learning/cmake-tool
    base-learning/C++-style-guide
