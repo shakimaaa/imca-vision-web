@@ -6,9 +6,9 @@
 IMCA-VISION DOCUMENTATION
 =====================================================
 
-IMCA-VISION DOCUMENTATION是imca战队视觉组创建和维护的robomaster视觉算法相关文档，内容涉及机器视觉、机器人运动学、深度学习以及ros2架构相关内容，是本队算法培训以及传承体系的重要一环。
+IMCA-VISION DOCUMENTATION是imca战队视觉组于24赛季创建并维护的robomaster视觉算法相关文档，内容涉及机器视觉、机器人运动学、深度学习以及ros2架构相关内容，是本队算法培训以及传承体系的重要一环。
 
-
+其前身是 `IMCA视觉 <https://imca.flowus.cn/>`__
 
 .. toctree::
    :titlesonly:
