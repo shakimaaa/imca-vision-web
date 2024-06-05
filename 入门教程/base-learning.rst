@@ -15,6 +15,7 @@
    
    base-learning/ubuntu-install
    base-learning/start-in-ubuntu
+   base-learning/VPN
    base-learning/the-IDE
    base-learning/cmake-tool
    base-learning/C++-style-guide
