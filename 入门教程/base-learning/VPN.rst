@@ -71,8 +71,8 @@
 
    [Desktop Entry]
    Name=clash for linux
-   Icon=/home/polarbear/Programs/Clash.for.Windows-0.20.39-x64-linux/resources/clash.png
-   Exec=/home/polarbear/Programs/Clash.for.Windows-0.20.39-x64-linux/cfw
+   Icon=/home/xxx/CLASH/Clash.for.Windows-0.20.39-x64-linux/resources/clash.png
+   Exec=/home/xxx/CLASH/Clash.for.Windows-0.20.39-x64-linux/cfw
    Type=Application
 
 * 添加权限
