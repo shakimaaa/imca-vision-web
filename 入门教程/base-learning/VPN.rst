@@ -101,5 +101,5 @@
 
 
 .. contents:: Table of Contents
-   :depth: 2
+   :depth: 3
    :local:

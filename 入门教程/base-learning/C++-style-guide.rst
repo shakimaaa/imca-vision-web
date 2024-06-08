@@ -39,5 +39,5 @@ c++代码风格规范
 2024.3.5 Shakima
 
 .. contents:: Table of Contents
-   :depth: 3
+   :depth: 4
    :local:

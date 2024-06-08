@@ -146,6 +146,6 @@ C++11 引入了这一新的形式. 现在可以在函数名前使用 ``auto`` �
 
 
 .. contents:: Table of Contents
-   :depth: 2
+   :depth: 3
    :local:
    

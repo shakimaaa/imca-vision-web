@@ -69,7 +69,7 @@ ubuntu系统属于linux系统的一种发行版本，是与windows系统平级�
 
 
 .. contents:: Table of Contents
-   :depth: 2
+   :depth: 3
    :local:
    
    

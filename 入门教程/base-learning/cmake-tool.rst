@@ -104,5 +104,5 @@ cmake安装和基本使用
 2024.6.4 Shakima
 
 .. contents:: Table of Contents
-   :depth: 2
+   :depth: 3
    :local:

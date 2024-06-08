@@ -102,6 +102,7 @@ IDE的安装和配置
 2024.6.2 Shakima
 
 
+
 .. contents:: Table of Contents
-   :depth: 2
+   :depth: 3
    :local:

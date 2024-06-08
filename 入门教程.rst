@@ -4,16 +4,24 @@
 
 面向视觉组新人的算法相关教程，该教程与视觉组目前内容和框架适配，建议按序学习
        
-ubuntu镜像
+入门
 ----------
 
-**由于我们使用的是ros2-humble版本，所以需要下载与其适配的ubuntu22.04系统。**
-  *  `点我下载 <https://ubuntu.com/download/desktop>`__ .
-  
+此部分主要涉及一些工具、系统、环境、c++等较为基础的教学
+
+
+进阶
+----------
+
+此部分会涉及opencv的安装配置和一些识别算法的教学，开启视觉大门的第一步
+
+
+
   
 .. toctree::
    :hidden:
    :glob:
    
    入门教程/base-learning
+   入门教程/advanced-teaching
 
