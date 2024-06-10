@@ -9,7 +9,7 @@
 1.安装
 --------
 
-* 下载clash
+* `下载clash <https://cloud.189.cn/t/Yr22M3IJVvY3>`__ (提取码：7jcx)
   
 .. code-block:: bash
 
