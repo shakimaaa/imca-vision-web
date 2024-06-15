@@ -17,7 +17,6 @@ IMCA-VISION DOCUMENTATION是imca战队视觉组于24赛季创建并维护的robo
    
    入门教程
    quick-start
-   ros-co-simulation
    ros2_control
    
    

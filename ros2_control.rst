@@ -28,3 +28,4 @@ ros2_control
    :glob:
 
    ros2_control/inatall-from-source
+   ros2_control/architecture
