@@ -16,3 +16,6 @@
    :maxdepth: 4
    :hidden:
    :glob:
+   
+   advanced-teaching/install-opencv
+

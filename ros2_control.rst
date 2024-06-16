@@ -29,3 +29,4 @@ ros2_control
 
    ros2_control/inatall-from-source
    ros2_control/architecture
+   ros2_control/lode-in-rviz
