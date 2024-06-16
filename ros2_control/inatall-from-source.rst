@@ -30,7 +30,7 @@
 
 .. code-block:: bash
 
-   . /opt/ros/${ROS_DISTRO}/setup.sh
+   . /opt/ros/humble/setup.sh
    colcon build --symlink-install
 
 **ros2_control的源代码内提供了一系列的demo实例,编译完成后可以试着运行一下**
