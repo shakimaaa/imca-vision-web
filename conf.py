@@ -14,7 +14,9 @@ release = 'v1.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+    'sphinx.ext.mathjax',  # 添加 mathjax 扩展
+]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -26,5 +28,9 @@ language = 'zh_CN'
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+html_css_files = [
+    'custom.css',  # 添加自定义 CSS 文件
+]
 
 html_show_sourcelink = False

@@ -1,0 +1,17 @@
+/* 改变行内公式的背景颜色 */
+.math.inline {
+    background-color: #add8e6; /* 这里使用浅蓝色 */; /* 可以根据需要修改颜色 */
+    color: #00008b; /* 这里使用深蓝色作为文本颜色 */
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+/* 改变块级公式的背景颜色 */
+.math.block {
+    background-color: #add8e6; /* 这里使用浅蓝色 */; /* 可以根据需要修改颜色 */
+    padding: 10px;
+    border-radius: 4px;
+    display: block;
+    margin: 10px 0;
+}
+
